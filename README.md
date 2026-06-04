@@ -4,7 +4,7 @@ License addendum - https://github.com/R2AKT/WRQ/blob/main/Addendum.txt
 # WRQ
 <img src="wait_request_top.png">
 
-Wait state insertion module. For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+Wait state insertion module. For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 Generation of a CPU module 'Wait' signal upon request from a slow device.
 
