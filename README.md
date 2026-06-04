@@ -10,7 +10,7 @@ Generation of a CPU module 'Wait' signal upon request from a slow device.
 
 Status: Under testing.
 
-Модуль задержки. Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+Модуль задержки. Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 
 Генерация по запросу от медленного устройства сигнала торможения процессорного модуля.
 
