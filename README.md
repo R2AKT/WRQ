@@ -2,7 +2,7 @@
 License addendum - https://github.com/R2AKT/WRQ/blob/main/Addendum.txt
 
 # WRQ
-<img src="WRQ_top.png">
+<img src="wait_request_top.png">
 
 Wait state insertion module. For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
 
